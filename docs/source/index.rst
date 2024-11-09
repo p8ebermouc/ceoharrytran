@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Harry Trần - Lãnh Đạo Đưa U888 Trở Thành Nhà Cái Hàng Đầu
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Harry Trần <https://u888.navy/ceo-harry-tran/>`_ CEO của nhà cái U888, đã góp phần đưa U888 trở thành một trong những nhà cái hàng đầu trong lĩnh vực cá cược online. Với nền tảng kiến thức vững chắc từ MIT và Harvard, Harry Trần sở hữu tầm nhìn chiến lược và triết lý kinh doanh độc đáo, tập trung vào đổi mới và phát triển bền vững. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Từ một ý tưởng nhỏ ban đầu, ông đã kiên trì xây dựng U888 trở thành thương hiệu uy tín với hàng triệu người chơi, nổi bật với các sản phẩm đa dạng như Nổ hũ, Bắn cá, Casino và Esports. Dưới sự lãnh đạo của Harry Trần, U888 không chỉ chú trọng cung cấp dịch vụ chất lượng mà còn tham gia tích cực vào các hoạt động từ thiện, khẳng định trách nhiệm xã hội của công ty. 
 
-.. note::
+Triết lý “khách hàng là trung tâm” cùng môi trường làm việc tích cực mà Harry xây dựng đã giúp U888 đạt được những thành tựu vượt bậc và phát triển bền vững trên thị trường.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 96 Hồ Văn Huê, Phường 9, Phú Nhuận, Hồ Chí Minh, Việt Nam. 
 
-.. toctree::
+Phone: 0983163299. 
 
-   usage
-   api
+Email: infor@u888.navy. 
+
+Website: https://u888.navy/ceo-harry-tran/
+
+#ceoharrytran #harrytran #ceoharrytran_u888
